@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "client": "file:../client",
+    "mern": "file:.."
+  }
+}
